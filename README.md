@@ -1,1 +1,1 @@
-K-Economy or NOT? Evidence From a Payments Survey
+K-Economy or Not? Evidence from a Payments Survey
