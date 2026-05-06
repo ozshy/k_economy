@@ -1,4 +1,4 @@
-*** Note the public version of the two 2025 data files will be posted here very soon ***
+*** Note: The public version of the two 2025 data files will be posted here very soon ***
 
 ---------------------------------------
 
