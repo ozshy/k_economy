@@ -1,4 +1,4 @@
-*** Note the two 2025 data files are still processed and will be posted here very soon ***
+*** Note the public version of the two 2025 data files will be posted here very soon ***
 
 ---------------------------------------
 
@@ -10,7 +10,7 @@ by Aditi Routh and Oz Shy
 
 Instructions:
 
-Download the R-code file: "k_spend_2026_mm_dd.R" and the 10 data files: "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS" into the same folder on your computer.
+Download the R-code file: "k_spend_2026_mm_dd.R" and the 10 data files: "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS" into the same folder on your computer. YEAR should be substituted for: 2021, 2022, 2023, 2024, and 2025. 
 
 Run the ENTIRE code first (don't forget to change the working directory).
 
