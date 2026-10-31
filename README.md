@@ -10,6 +10,6 @@ Instructions:
 2) Download 10 data files: "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS". YEAR should be replaced with: 2021, 2022, 2023, 2024, and 2025.
 3) Start R with the R code, and reset the working directory.
 4) Run the ENTIRE R-code first.
-5) If you are using RStudio, you can access directly to each table and figure by clicking on the content tab on the lower-left side. 
+5) If you are using RStudio, you can then access each table and figure directly by clicking on the content tab on the lower-left side. 
 
 --------------------------------------- 
